@@ -1,0 +1,16 @@
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\bin\Debug\net8.0-windows\SupImView.exe
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\bin\Debug\net8.0-windows\SupImView.deps.json
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\bin\Debug\net8.0-windows\SupImView.runtimeconfig.json
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\bin\Debug\net8.0-windows\SupImView.dll
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\bin\Debug\net8.0-windows\SupImView.pdb
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\obj\Debug\net8.0-windows\SupImView.Form1.resources
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\obj\Debug\net8.0-windows\SupImView.csproj.GenerateResource.cache
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\obj\Debug\net8.0-windows\SupImView.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\obj\Debug\net8.0-windows\SupImView.AssemblyInfoInputs.cache
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\obj\Debug\net8.0-windows\SupImView.AssemblyInfo.cs
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\obj\Debug\net8.0-windows\SupImView.csproj.CoreCompileInputs.cache
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\obj\Debug\net8.0-windows\SupImView.dll
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\obj\Debug\net8.0-windows\refint\SupImView.dll
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\obj\Debug\net8.0-windows\SupImView.pdb
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\obj\Debug\net8.0-windows\SupImView.genruntimeconfig.cache
+C:\coding\C-Sharp\SuperImageViewer\SupImView\SupImView\obj\Debug\net8.0-windows\ref\SupImView.dll
